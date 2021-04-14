@@ -1,0 +1,11 @@
+## Installation
+```bash
+Install dependencies with composer
+```
+
+
+## Testing
+```bash
+For phpunit testing run this command
+./vendor/bin/phpunit --testdox tests
+```
